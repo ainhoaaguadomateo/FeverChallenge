@@ -1,0 +1,6 @@
+@Fever_HostAddress = http://localhost:5255
+
+GET {{Fever_HostAddress}}/fever/
+Accept: application/json
+
+###
